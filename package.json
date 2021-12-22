@@ -1,0 +1,17 @@
+{
+  "name": "papka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "jsonfile": "^6.1.0",
+    "simple-excel-to-json": "^2.3.0"
+  }
+}
